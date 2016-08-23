@@ -1,0 +1,14 @@
+layout_spectrum: 0.11729016434401274
+typography_spectrum: 0.6744420686736703
+color:
+  brandStrength: 0.15799528663046658
+  lightness: 0.7362709240987897
+  saturation: 0.9390998601447791
+  rhythmicContrast: 0.9396196724846959
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: manvsbot
